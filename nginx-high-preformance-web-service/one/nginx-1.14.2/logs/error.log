@@ -1,0 +1,4 @@
+2019/04/05 21:21:14 [emerg] 7180#5280: invalid number of arguments in "user" directive in D:\file-something\study-object\linewell\study-nginx\nginx-high-preformance-web-service\one\nginx-1.14.2/conf/nginx.conf:4
+2019/04/05 21:24:56 [warn] 30320#5500: "user" is not supported, ignored in D:\file-something\study-object\linewell\study-nginx\nginx-high-preformance-web-service\one\nginx-1.14.2/conf/nginx.conf:3
+2019/04/05 21:24:56 [notice] 30320#5500: signal process started
+2019/04/05 21:24:56 [warn] 30756#17860: "user" is not supported, ignored in D:\file-something\study-object\linewell\study-nginx\nginx-high-preformance-web-service\one\nginx-1.14.2/conf/nginx.conf:3
